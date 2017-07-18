@@ -5,7 +5,7 @@ Documentation for uFR Series devices, focused on two main points: uFR Series ser
 ## Scope and guidelines
 
 uFR Series devices establish communication with host over D-Logic's serial communication protocol, which is described in separate document in this project folder.
-API reference sits on top of that protocol. Purpose of API is to provide much easier and faster programming, much more convenient fo developers.
+API reference sits on top of that protocol. Purpose of API is to provide much easier and faster programming, much more convenient for developers.
 Many complex operations are summarized in few API functions.
 General directions:
 if your platform provides any type of serial or VCOM interface you can use API with our library. 
@@ -15,12 +15,12 @@ Please refer to documents in this project for more details.
 ### Prerequisites
 
 No special prerequisites, any Open office or similar would be fine.
-Documents are intentionally kept in .odt format for the purpose of user's convenince, like esaier handling of code snippets etc. 
+Documents are intentionally kept in .odt format for the purpose of user's convenience, like easier handling of code snippets etc. 
 
 ### Updates
 
 Each firmware, library or protocol changes are and will be documented. Please check them frequently.
-New document called "ufR API new (new style, work in progress)" is a roadpath to more tidy way of writing and is currently in progress. It is maintained according to available time. 
+New document called "ufR API new (new style, work in progress)" is a road to more tidy way of writing and is currently in progress. It is maintained according to available time. 
 
 ## License
 
